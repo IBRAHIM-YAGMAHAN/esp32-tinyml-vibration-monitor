@@ -1,4 +1,4 @@
-# esp32-tinyml-vibration-monitor
+# esp32, tinyml, edge-ai, anomaly-detection, iot, mqtt, node-red, edge-impulse, predictive-maintenance, mpu6050, embedded-systems
 A TinyML-powered embedded system for real-time vibration anomaly detection in fan/motor systems. 
 Built on ESP32 with an MPU6050 accelerometer, the system classifies vibration states (normal, 
 anomaly, fan_off) directly on the edge — no cloud dependency. Trained via Edge Impulse, achieving 
